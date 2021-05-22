@@ -1,0 +1,16 @@
+name: soap
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.8
+  - pip==21.1.1
+  - pandas==1.2.*
+  - numpy==1.19.*
+  - matplotlib==3.4.*
+  - scipy==1.6.*
+  - dask==2021.5.*
+  - pip:
+    - opencv-python==4.5.2.*
+    - scikit-image==0.18.*
