@@ -1,0 +1,23 @@
+name: route_opt
+
+channels:
+  - conda-forge
+
+dependencies:
+  - r-base==4.1.*
+  - r-data.table==1.14.*
+  - r-ggplot2==3.3.*
+  - r-shiny==1.6.*
+  - r-dplyr==1.0.*
+  - r-lubridate==1.7.*
+  - r-httr==1.4.*
+  - r-jsonlite==1.7.*
+  - r-shinydashboard==0.7.*
+  - r-shinywidgets==0.6.*
+  - r-bslib==0.2.*
+  - r-stringr==1.4.*
+  - r-logger==0.2.*
+  - r-plotly==4.9.*
+  - r-shinyalert==2.0.*
+  - r-class==7.3_19
+  - r-leaflet==2.0.4.*
